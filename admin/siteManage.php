@@ -5,7 +5,7 @@
 
                     $systemName = $row['systemName'];
                     $address = $row['address'];
-                    $email = $row['email'];
+                    $email = $row['email']
                     $contact1 = $row['contact1'];
                     $contact2 = $row['contact2'];
 
